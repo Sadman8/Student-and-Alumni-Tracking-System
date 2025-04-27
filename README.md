@@ -19,7 +19,7 @@ A centralized platform to manage student records, track alumni, and strengthen t
 
 | Category      | Technology             |
 |---------------|------------------------|
-| 💻 Frontend    | HTML, CSS, JavaScript (or React/Angular) |
+| 💻 Frontend    | HTML, CSS, JavaScript  |
 | 🗄️ Backend     | Node.js / Python Flask / Django |
 | 🗃️ Database    | MySQL / PostgreSQL / MongoDB |
 | 🌐 API Layer   | RESTful APIs           |
